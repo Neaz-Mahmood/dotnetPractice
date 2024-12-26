@@ -1,0 +1,15 @@
+/home/neaz/Projects/dotnetPractice/day2Practice2/CreaditCard/bin/Debug/net8.0/CreaditCard
+/home/neaz/Projects/dotnetPractice/day2Practice2/CreaditCard/bin/Debug/net8.0/CreaditCard.deps.json
+/home/neaz/Projects/dotnetPractice/day2Practice2/CreaditCard/bin/Debug/net8.0/CreaditCard.runtimeconfig.json
+/home/neaz/Projects/dotnetPractice/day2Practice2/CreaditCard/bin/Debug/net8.0/CreaditCard.dll
+/home/neaz/Projects/dotnetPractice/day2Practice2/CreaditCard/bin/Debug/net8.0/CreaditCard.pdb
+/home/neaz/Projects/dotnetPractice/day2Practice2/CreaditCard/obj/Debug/net8.0/CreaditCard.GeneratedMSBuildEditorConfig.editorconfig
+/home/neaz/Projects/dotnetPractice/day2Practice2/CreaditCard/obj/Debug/net8.0/CreaditCard.AssemblyInfoInputs.cache
+/home/neaz/Projects/dotnetPractice/day2Practice2/CreaditCard/obj/Debug/net8.0/CreaditCard.AssemblyInfo.cs
+/home/neaz/Projects/dotnetPractice/day2Practice2/CreaditCard/obj/Debug/net8.0/CreaditCard.csproj.CoreCompileInputs.cache
+/home/neaz/Projects/dotnetPractice/day2Practice2/CreaditCard/obj/Debug/net8.0/CreaditCard.sourcelink.json
+/home/neaz/Projects/dotnetPractice/day2Practice2/CreaditCard/obj/Debug/net8.0/CreaditCard.dll
+/home/neaz/Projects/dotnetPractice/day2Practice2/CreaditCard/obj/Debug/net8.0/refint/CreaditCard.dll
+/home/neaz/Projects/dotnetPractice/day2Practice2/CreaditCard/obj/Debug/net8.0/CreaditCard.pdb
+/home/neaz/Projects/dotnetPractice/day2Practice2/CreaditCard/obj/Debug/net8.0/CreaditCard.genruntimeconfig.cache
+/home/neaz/Projects/dotnetPractice/day2Practice2/CreaditCard/obj/Debug/net8.0/ref/CreaditCard.dll
