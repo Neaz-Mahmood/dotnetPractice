@@ -1,0 +1,15 @@
+/home/neaz/Projects/dotnetPractice/day 4/Pranctice4/bin/Debug/net8.0/Pranctice4
+/home/neaz/Projects/dotnetPractice/day 4/Pranctice4/bin/Debug/net8.0/Pranctice4.deps.json
+/home/neaz/Projects/dotnetPractice/day 4/Pranctice4/bin/Debug/net8.0/Pranctice4.runtimeconfig.json
+/home/neaz/Projects/dotnetPractice/day 4/Pranctice4/bin/Debug/net8.0/Pranctice4.dll
+/home/neaz/Projects/dotnetPractice/day 4/Pranctice4/bin/Debug/net8.0/Pranctice4.pdb
+/home/neaz/Projects/dotnetPractice/day 4/Pranctice4/obj/Debug/net8.0/Pranctice4.GeneratedMSBuildEditorConfig.editorconfig
+/home/neaz/Projects/dotnetPractice/day 4/Pranctice4/obj/Debug/net8.0/Pranctice4.AssemblyInfoInputs.cache
+/home/neaz/Projects/dotnetPractice/day 4/Pranctice4/obj/Debug/net8.0/Pranctice4.AssemblyInfo.cs
+/home/neaz/Projects/dotnetPractice/day 4/Pranctice4/obj/Debug/net8.0/Pranctice4.csproj.CoreCompileInputs.cache
+/home/neaz/Projects/dotnetPractice/day 4/Pranctice4/obj/Debug/net8.0/Pranctice4.sourcelink.json
+/home/neaz/Projects/dotnetPractice/day 4/Pranctice4/obj/Debug/net8.0/Pranctice4.dll
+/home/neaz/Projects/dotnetPractice/day 4/Pranctice4/obj/Debug/net8.0/refint/Pranctice4.dll
+/home/neaz/Projects/dotnetPractice/day 4/Pranctice4/obj/Debug/net8.0/Pranctice4.pdb
+/home/neaz/Projects/dotnetPractice/day 4/Pranctice4/obj/Debug/net8.0/Pranctice4.genruntimeconfig.cache
+/home/neaz/Projects/dotnetPractice/day 4/Pranctice4/obj/Debug/net8.0/ref/Pranctice4.dll

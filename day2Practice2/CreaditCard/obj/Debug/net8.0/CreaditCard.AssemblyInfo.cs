@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreaditCard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2f30c5f24d8f8184250dc7378159a92a0c011a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daf00f79cd2f0a09ef5a0a19b92f8239fb5d28c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreaditCard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreaditCard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,13 @@
+using System.Numerics;
+
 public class BankAccount {
     public string name { get; set; }
     public string accountNumber { get; set; }
     public decimal balance { get; set; }
+
+    private BigInteger dailyTransactionCount = 0;
+
+    private decimal dailyTransactionAmount { get; set; }
 
     public BankAccount(string name, string accountNumber, decimal balance) {
         if(string.IsNullOrEmpty(name)) {
@@ -45,5 +51,24 @@ public class BankAccount {
         balance -= amount;
         destination.Deposit(amount);
     }
+
+   public void cashWithdrawal(decimal amount) {
+        if(amount < 0) {
+            throw new ArgumentException("Amount cannot be negative");
+        }
+        if(balance < amount) {
+            throw new ArgumentException("Insufficient balance");
+        }
+        if(dailyTransactionCount >= 5) {
+            throw new ArgumentException("Daily transaction limit exceeded");
+        }
+        if(dailyTransactionAmount + amount > 1000) {
+            throw new ArgumentException("Daily transaction amount limit exceeded");
+        }
+        balance -= amount;
+        dailyTransactionCount++;
+        dailyTransactionAmount += amount;
+    }
+
    
 }
