@@ -1,0 +1,15 @@
+/home/neaz/Projects/dotnetPractice/Day 5/practice7/bin/Debug/net8.0/practice7
+/home/neaz/Projects/dotnetPractice/Day 5/practice7/bin/Debug/net8.0/practice7.deps.json
+/home/neaz/Projects/dotnetPractice/Day 5/practice7/bin/Debug/net8.0/practice7.runtimeconfig.json
+/home/neaz/Projects/dotnetPractice/Day 5/practice7/bin/Debug/net8.0/practice7.dll
+/home/neaz/Projects/dotnetPractice/Day 5/practice7/bin/Debug/net8.0/practice7.pdb
+/home/neaz/Projects/dotnetPractice/Day 5/practice7/obj/Debug/net8.0/practice7.GeneratedMSBuildEditorConfig.editorconfig
+/home/neaz/Projects/dotnetPractice/Day 5/practice7/obj/Debug/net8.0/practice7.AssemblyInfoInputs.cache
+/home/neaz/Projects/dotnetPractice/Day 5/practice7/obj/Debug/net8.0/practice7.AssemblyInfo.cs
+/home/neaz/Projects/dotnetPractice/Day 5/practice7/obj/Debug/net8.0/practice7.csproj.CoreCompileInputs.cache
+/home/neaz/Projects/dotnetPractice/Day 5/practice7/obj/Debug/net8.0/practice7.sourcelink.json
+/home/neaz/Projects/dotnetPractice/Day 5/practice7/obj/Debug/net8.0/practice7.dll
+/home/neaz/Projects/dotnetPractice/Day 5/practice7/obj/Debug/net8.0/refint/practice7.dll
+/home/neaz/Projects/dotnetPractice/Day 5/practice7/obj/Debug/net8.0/practice7.pdb
+/home/neaz/Projects/dotnetPractice/Day 5/practice7/obj/Debug/net8.0/practice7.genruntimeconfig.cache
+/home/neaz/Projects/dotnetPractice/Day 5/practice7/obj/Debug/net8.0/ref/practice7.dll
