@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vCeuGEv91jNjEXgX4aIdsCzlo+MOrEYs9Hx6ZPyxj7Ozb7BrCIEfKZaEYd3VVxD7mJzwz6KqZoKwHRCv0jasKA==",
+  "dgSpecHash": "q/dyEe/bs2c=",
   "success": true,
-  "projectFilePath": "/home/neaz/Projects/dotnetPractice/practice1/practice1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/neazmahmood/Desktop/Projects/dotnetPractice/practice1/practice1.csproj",
+  "expectedPackageFiles": [
+    "/Users/neazmahmood/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "/Users/neazmahmood/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "/Users/neazmahmood/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.12/microsoft.netcore.app.host.osx-arm64.8.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
