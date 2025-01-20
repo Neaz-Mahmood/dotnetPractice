@@ -1,0 +1,14 @@
+D:\Practical OOP Training Program\Batch 04\Day 11\PaymentProcessorExample\obj\Debug\net8.0\PaymentProcessorExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practical OOP Training Program\Batch 04\Day 11\PaymentProcessorExample\obj\Debug\net8.0\PaymentProcessorExample.AssemblyInfoInputs.cache
+D:\Practical OOP Training Program\Batch 04\Day 11\PaymentProcessorExample\obj\Debug\net8.0\PaymentProcessorExample.AssemblyInfo.cs
+D:\Practical OOP Training Program\Batch 04\Day 11\PaymentProcessorExample\obj\Debug\net8.0\PaymentProcessorExample.csproj.CoreCompileInputs.cache
+D:\Practical OOP Training Program\Batch 04\Day 11\PaymentProcessorExample\bin\Debug\net8.0\PaymentProcessorExample.exe
+D:\Practical OOP Training Program\Batch 04\Day 11\PaymentProcessorExample\bin\Debug\net8.0\PaymentProcessorExample.deps.json
+D:\Practical OOP Training Program\Batch 04\Day 11\PaymentProcessorExample\bin\Debug\net8.0\PaymentProcessorExample.runtimeconfig.json
+D:\Practical OOP Training Program\Batch 04\Day 11\PaymentProcessorExample\bin\Debug\net8.0\PaymentProcessorExample.dll
+D:\Practical OOP Training Program\Batch 04\Day 11\PaymentProcessorExample\bin\Debug\net8.0\PaymentProcessorExample.pdb
+D:\Practical OOP Training Program\Batch 04\Day 11\PaymentProcessorExample\obj\Debug\net8.0\PaymentProcessorExample.dll
+D:\Practical OOP Training Program\Batch 04\Day 11\PaymentProcessorExample\obj\Debug\net8.0\refint\PaymentProcessorExample.dll
+D:\Practical OOP Training Program\Batch 04\Day 11\PaymentProcessorExample\obj\Debug\net8.0\PaymentProcessorExample.pdb
+D:\Practical OOP Training Program\Batch 04\Day 11\PaymentProcessorExample\obj\Debug\net8.0\PaymentProcessorExample.genruntimeconfig.cache
+D:\Practical OOP Training Program\Batch 04\Day 11\PaymentProcessorExample\obj\Debug\net8.0\ref\PaymentProcessorExample.dll
